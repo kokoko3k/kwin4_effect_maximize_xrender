@@ -1,0 +1,4 @@
+# kwin4_effect_maximize_xrender
+A modified version of the default maximize kwin effect done to reduce glitches when using xrender backend.
+Related bug: https://bugs.kde.org/show_bug.cgi?id=418247
+Video showing the problem (maybe watch it at reduced speed) https://www.youtube.com/watch?v=qKZE6icPHFo
